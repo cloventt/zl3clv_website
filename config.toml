@@ -1,3 +1,21 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://zl3clv.nz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ZL3CLV'
+theme = ["anatole", "easy-gallery"]
+
+[params]
+title = ""
+author = "David Palmer"
+description = ""
+profilePicture = "images/zl3clv.svg"
+customCss = ["css/custom.css"]
+
+    [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "Youtube"
+    url = "https://www.youtube.com/channel/UC_t4tH-Owb-nOXay9oD4isA"
+
+    [[params.socialIcons]]
+    icon = "fas fa-running"
+    title = "cloventt.net"
+    url = "https://cloventt.net"

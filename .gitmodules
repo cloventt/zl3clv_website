@@ -1,0 +1,6 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = git@github.com:lxndrblz/anatole.git
+[submodule "themes/easy-gallery"]
+	path = themes/easy-gallery
+	url = https://github.com/cloventt/hugo-easy-gallery
