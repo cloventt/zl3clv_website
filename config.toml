@@ -1,15 +1,16 @@
-baseURL = 'http://zl3clv.nz/'
+baseURL = 'https://zl3clv.nz/'
 languageCode = 'en-us'
 title = 'ZL3CLV'
 theme = ["anatole", "easy-gallery"]
 publishDir = "docs"
 
 [params]
-title = ""
+title = "ZL3CLV | David Palmer"
 author = "David Palmer"
 description = ""
 profilePicture = "images/zl3clv.svg"
 customCss = ["css/custom.css"]
+reversepagetitle = true
 
     [[params.socialIcons]]
     icon = "fab fa-youtube"

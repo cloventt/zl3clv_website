@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shortwave on ZL3CLV</title>
-    <link>http://zl3clv.nz/tags/shortwave/</link>
+    <link>https://zl3clv.nz/tags/shortwave/</link>
     <description>Recent content in shortwave on ZL3CLV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://zl3clv.nz/tags/shortwave/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zl3clv.nz/tags/shortwave/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dipole Antenna for Shortwave Listening</title>
-      <link>http://zl3clv.nz/posts/2022-01-06-dipole-antenna/</link>
+      <link>https://zl3clv.nz/posts/2022-01-06-dipole-antenna/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://zl3clv.nz/posts/2022-01-06-dipole-antenna/</guid>
+      <guid>https://zl3clv.nz/posts/2022-01-06-dipole-antenna/</guid>
       
         <description>A very vrief overview of a project I completed to build an HF receiving antenna.</description>
       

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ZL3CLV</title>
-    <link>http://zl3clv.nz/categories/</link>
+    <link>https://zl3clv.nz/categories/</link>
     <description>Recent content in Categories on ZL3CLV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://zl3clv.nz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zl3clv.nz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
