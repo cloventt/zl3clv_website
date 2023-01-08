@@ -6,3 +6,14 @@
     height: 250px;
     width: 250px;
 }
+
+img[src$='#floatleft']
+{
+	float:left;
+    padding-left: 4em;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
