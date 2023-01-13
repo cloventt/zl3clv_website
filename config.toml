@@ -20,6 +20,16 @@ reversepagetitle = true
     url = "https://www.youtube.com/channel/UC_t4tH-Owb-nOXay9oD4isA"
 
     [[params.socialIcons]]
+    icon = "fas fa-globe"
+    title = "QRZ Logbook"
+    url = "https://www.qrz.com/db/ZL3CLV"
+
+    [[params.socialIcons]]
+    icon = "fas fa-house-user"
+    title = "ontheair.nz"
+    url = "https://ontheair.nz/users/ZL3CLV"
+
+    [[params.socialIcons]]
     icon = "fas fa-running"
     title = "cloventt.net"
     url = "https://cloventt.net"
