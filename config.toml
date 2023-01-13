@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'ZL3CLV'
 theme = ["anatole", "easy-gallery"]
 publishDir = "docs"
+enableRobotsTXT = true
+
 
 [params]
 title = "ZL3CLV | David Palmer"
@@ -21,3 +23,6 @@ reversepagetitle = true
     icon = "fas fa-running"
     title = "cloventt.net"
     url = "https://cloventt.net"
+
+    [params.plausibleAnalytics]
+    domain = "example.com"
